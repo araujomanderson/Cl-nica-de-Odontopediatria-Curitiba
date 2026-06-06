@@ -1,0 +1,6 @@
+{
+  "name": "Clínica de Odontopediatria Curitiba",
+  "description": "Site premium para clínica especializada em odontopediatria e ortodontia infantil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
